@@ -1,0 +1,12 @@
+{
+  "author": "halfside-net <105025415+halfside-net@users.noreply.github.com>",
+  "dependencies": {
+    "jpeg-autorotate": "^8.0.1"
+  },
+  "description": "imagemin plugin for jpeg-autorotate: Automatically rotate jpegs from EXIF orientation",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "imagemin-jpegautorotate",
+  "repository": "git@github.com:halfside-net/imagemin-jpegautorotate.git",
+  "version": "0.0.1"
+}
