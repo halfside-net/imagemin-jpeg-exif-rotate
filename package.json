@@ -6,7 +6,7 @@
   "description": "imagemin plugin for jpeg-autorotate: Automatically rotate jpegs from EXIF orientation",
   "license": "MIT",
   "main": "index.js",
-  "name": "imagemin-jpegautorotate",
-  "repository": "git@github.com:halfside-net/imagemin-jpegautorotate.git",
+  "name": "imagemin-jpeg-exif-rotate",
+  "repository": "git@github.com:halfside-net/imagemin-jpeg-exif-rotate.git",
   "version": "0.0.1"
 }
